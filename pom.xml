@@ -14,6 +14,7 @@
         <module>jvm</module>
         <module>concurrency</module>
         <module>low-code</module>
+        <module>specification</module>
     </modules>
 
     <dependencies>
